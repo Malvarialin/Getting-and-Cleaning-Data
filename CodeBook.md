@@ -3,23 +3,41 @@ Course Project Code Book
 The original description from those that collected the data prior to being merged and cleaned. http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The following variables were used, where XYZ refers to the X,Y, and Z directions respectively:
+	
 	tBodyAcc-XYZ
+	
 	tGravityAcc-XYZ
+	
 	tBodyAccJerk-XYZ
+	
 	tBodyGyro-XYZ
+	
 	tBodyGyroJerk-XYZ
+	
 	tBodyAccMag
+	
 	tGravityAccMag
+	
 	tBodyAccJerkMag
+	
 	tBodyGyroMag
+	
 	tBodyGyroJerkMag
+	
 	fBodyAcc-XYZ	
+	
 	fBodyAccJerk-XYZ
+	
 	fBodyGyro-XYZ
+	
 	fBodyAccMag
+	
 	fBodyAccJerkMag
+	
 	fBodyGyroMag
+	
 	fBodyGyroJerkMag 
+	
 
 However the tables contain calculations done on these variables, so the actual variable ends up coming out in this sort of fashion.
 tBodyAcc-mean()-X
