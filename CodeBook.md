@@ -25,6 +25,7 @@ However the tables contain calculations done on these variables, so the actual v
 tBodyAcc-mean()-X
 Thus, this variable represets the mean of the tBodyAcc variable in the X direction.
 Additionally, the possible outcomes for the 'activity' (which represents what the subject is doing at the time) variable are as follows.
+	
 	1 WALKING
 
 	2 WALKING_UPSTAIRS
